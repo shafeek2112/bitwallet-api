@@ -4,6 +4,15 @@
 
 ## Installation
 
+
+## Installation
+
+Clone this project using below command or download as zip and install in your 
+system.
+```bash
+git clone https://mohammedshafeek2112@bitbucket.org/mohammedshafeek2112/mini-aspire-app.git
+```
+
 After download the project, run composer install to install necessary packages.
 ```bash
 composer install
