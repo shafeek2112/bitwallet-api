@@ -4,9 +4,6 @@
 
 ## Installation
 
-
-## Installation
-
 Clone this project using below command or download as zip and install in your 
 system.
 ```bash
