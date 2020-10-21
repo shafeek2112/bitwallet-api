@@ -32,6 +32,7 @@
 
             .topdiv {
                 padding : 15px;
+                background: black;
             }
         </style>
 
